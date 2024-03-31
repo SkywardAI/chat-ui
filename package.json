@@ -15,7 +15,7 @@
 	"devDependencies": {
 		"@iconify-json/carbon": "^1.1.16",
 		"@sveltejs/adapter-node": "^1.2.4",
-		"@sveltejs/kit": "^1.15.10",
+		"@sveltejs/kit": "^1.30.4",
 		"@tailwindcss/typography": "^0.5.9",
 		"@types/marked": "^4.0.8",
 		"@types/parquetjs": "^0.10.3",
